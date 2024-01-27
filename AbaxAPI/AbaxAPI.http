@@ -1,0 +1,6 @@
+@AbaxAPI_HostAddress = http://localhost:5143
+
+GET {{AbaxAPI_HostAddress}}/api/Stations/a
+Accept: application/json
+
+###
